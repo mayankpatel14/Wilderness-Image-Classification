@@ -7,9 +7,10 @@
 ## AIM: This project reviews the performances of the presently available deep learning models for forest and non-forest/monoculture/agriculture/crop plantation image classification.
 
 
-<br><br><br>
+
 
 ### For a brief summary of this repository go to [final_report.pdf](https://github.com/mayankpatel14/Wilderness-Image-Classification/blob/master/final_report.pdf).
+
 
 <br>
 
@@ -20,9 +21,11 @@ We have trained the following models:
 -	ResNet9
 -	Google-Inceptionv1
 -	DenseNet
--	MobileNetv2
-Find the code to the models in [models](https://github.com/mayankpatel14/Wilderness-Image-Classification/tree/master/models) and the guide to run models.
+-	MobileNetv2<br>
 
+<br>Find the code to the models in [models](https://github.com/mayankpatel14/Wilderness-Image-Classification/tree/master/models) and the guide to run models.
+<br>
+<br>
 ## Results
 For visualizations of the training and validation accuracies and losses go to [final_report.pdf](https://github.com/mayankpatel14/Wilderness-Image-Classification/blob/master/final_report.pdf).
 
