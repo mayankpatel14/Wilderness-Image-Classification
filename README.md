@@ -95,6 +95,6 @@ For visualizations of the training and validation accuracies and losses go to [f
 
 
 
-
+Tags: Image-Classification, forest, non-forest, agriculture, monoculture, trees, computer-vision, machine-learning, deep-learning, Neural-Networks
 
 
