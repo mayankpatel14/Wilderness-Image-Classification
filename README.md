@@ -2,10 +2,11 @@
 
 - by <B>Mayank Patel</B>, IIT Kharagpur (under supervision of <B>Professor Tomas Maul</B>, University of Nottingham, Malaysia)
 
+## AIM:
+
 <br>
-<br>
-## Abstract:
-### This project reviews the performances of the presently available deep learning models for forest and non-forest image classification.
+
+### This project reviews the performances of the presently available deep learning models for forest and non-forest/monoculture/agriculture/crop plantation image classification.
 
 
 
@@ -21,10 +22,9 @@ We have trained the following models:
 -	DenseNet
 -	MobileNetv2
 
-The models have been trained for 50 epochs with learning rate of 1e-5 while using Adam optimizer. Models were trained on a Nvidia Tesla K80 Graphic Processing Unit.<br><br>
 
 ## Results
-For visualizations of the training and validation accuracies and losses go to [Train_validation_loss_accuracies](https://github.com/mayankpatel14/Wilderness-Image-Classification/tree/master/Train_validation_loss_accuracies).
+For visualizations of the training and validation accuracies and losses go to [final_report.pdf](https://github.com/mayankpatel14/Wilderness-Image-Classification/blob/master/final_report.pdf).
 
 <table class="tg">
 <thead>
