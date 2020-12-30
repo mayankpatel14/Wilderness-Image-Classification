@@ -4,7 +4,36 @@ While uploading data, create directories like this
 	- forest(this directory contains all the images of forests)
 	- non-forest(this directory contains images corresponding to non-forests)
 """
+from PIL import Image
+from shutil import copyfile
+import pandas as pd
+import numpy as np
+import os
+import cv2
+from  matplotlib import pyplot as plt
+import matplotlib.image as mpimg
+%matplotlib inline
+import math
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+import torch.optim as optim
+import torch.utils.data as data
+from torch.utils.data import random_split
+import torchvision.transforms as transforms
+import torchvision.datasets as datasets
+from torchvision.datasets import ImageFolder
+from torchvision.transforms import ToTensor
+from torch.utils.data.dataloader import DataLoader
+from torchvision.utils import make_grid
 
+from sklearn import metrics
+from sklearn import decomposition
+from sklearn import manifold
+
+import copy
+import random
+import time
 
 img_folder=r'/content/drive/MyDrive/Wilderness_Classification/images/train'
 
