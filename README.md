@@ -21,7 +21,7 @@ We have trained the following models:
 -	Google-Inceptionv1
 -	DenseNet
 -	MobileNetv2
-
+Find the code to the models in [models](https://github.com/mayankpatel14/Wilderness-Image-Classification/tree/master/models) and the guide to run models.
 
 ## Results
 For visualizations of the training and validation accuracies and losses go to [final_report.pdf](https://github.com/mayankpatel14/Wilderness-Image-Classification/blob/master/final_report.pdf).
