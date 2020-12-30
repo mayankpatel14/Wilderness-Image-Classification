@@ -1,15 +1,17 @@
 # Wilderness Image Classification using Neural Networks
 
-- by <B>Mayank Patel</B>, IIT Kharagpur (under supervision of <B>Professor Tomas Maul</B>, University of Nottingham, Malaysia)
+- by <B>Mayank Patel</B>, IIT Kharagpur, India (under supervision of <B>Professor Tomas Maul</B>, University of Nottingham, Malaysia)
 
 <br><br>
 
 ## AIM: This project reviews the performances of the presently available deep learning models for forest and non-forest/monoculture/agriculture/crop plantation image classification.
 
 
+<br><br><br>
 
+### For a brief summary of this repository go to [final_report.pdf](https://github.com/mayankpatel14/Wilderness-Image-Classification/blob/master/final_report.pdf).
 
-For a brief summary of this repository go to [final_report.pdf](https://github.com/mayankpatel14/Wilderness-Image-Classification/blob/master/final_report.pdf).
+<br>
 
 ## Training:
 We have trained the following models:
