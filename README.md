@@ -2,11 +2,9 @@
 
 - by <B>Mayank Patel</B>, IIT Kharagpur (under supervision of <B>Professor Tomas Maul</B>, University of Nottingham, Malaysia)
 
-## AIM:
+<br><br>
 
-<br>
-
-### This project reviews the performances of the presently available deep learning models for forest and non-forest/monoculture/agriculture/crop plantation image classification.
+## AIM: This project reviews the performances of the presently available deep learning models for forest and non-forest/monoculture/agriculture/crop plantation image classification.
 
 
 
