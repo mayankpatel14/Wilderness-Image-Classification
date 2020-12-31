@@ -50,51 +50,51 @@ For visualizations of the training and validation accuracies and losses go to [f
   </tr>
   <tr>
     <td class="tg-0pky">VGGNet11</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">0.9943</td>
+    <td class="tg-0pky">0.0057</td>
+    <td class="tg-0pky">0.0148</td>
   </tr>
   <tr>
     <td class="tg-0pky">VGGNet13</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">0.9990</td>
+    <td class="tg-0pky">0.0044</td>
+    <td class="tg-0pky">0.0201</td>
   </tr>
   <tr>
     <td class="tg-0pky">VGGNet16</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">0.9985</td>
+    <td class="tg-0pky">0.0047</td>
+    <td class="tg-0pky">0.0199</td>
   </tr>
   <tr>
     <td class="tg-0pky">VGGNet19</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">0.9983</td>
+    <td class="tg-0pky">0.0070</td>
+    <td class="tg-0pky">0.0206</td>
   </tr>
   <tr>
     <td class="tg-0pky">ResNet9</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">0.9990</td>
+    <td class="tg-0pky">0.0031</td>
+    <td class="tg-0pky">0.0048</td>
   </tr>
   <tr>
     <td class="tg-0pky">Google-Inception</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">0.9970</td>
+    <td class="tg-0pky">0.0125</td>
+    <td class="tg-0pky">0.0423</td>
   </tr>
   <tr>
     <td class="tg-0pky">DenseNet</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">0.9961</td>
+    <td class="tg-0pky">0.0099</td>
+    <td class="tg-0pky">0.0328</td>
   </tr>
   <tr>
     <td class="tg-0pky">MobileNet</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">0.9861</td>
+    <td class="tg-0pky">0.0469</td>
+    <td class="tg-0pky">0.1474</td>
   </tr>
 </tbody>
 </table>
