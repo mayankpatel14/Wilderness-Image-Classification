@@ -4,7 +4,7 @@
 
 <br><br>
 
-## AIM: This project reviews the performances of the presently available deep learning models for forest and non-forest/monoculture/agriculture/crop plantation image classification.
+### This project reviews the performances of the presently available deep learning models for forest and non-forest/monoculture/agriculture/crop plantation image classification.
 
 
 
