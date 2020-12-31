@@ -42,13 +42,13 @@ The data has been downloaded from Google Earth Pro (GE). We collected 24 (4800 x
 ## Results
 For visualizations of the training and validation accuracies and losses go to [final_report.pdf](https://github.com/mayankpatel14/Wilderness-Image-Classification/blob/master/final_report.pdf).<br>
 <br><br>
-Table 1. Classification between forest and green images
+Table 1. Classification between forest and non-forest images
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-0pky">Models</th>
-    <th class="tg-0pky">Validation Accuracy</th>
-    <th class="tg-0pky">Validation Loss</th>
+    <th class="tg-0pky">Test Accuracy</th>
+    <th class="tg-0pky">Test Loss</th>
     <th class="tg-0pky">Training Loss</th>
   </tr>
 </thead>
@@ -58,6 +58,74 @@ Table 1. Classification between forest and green images
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">VGGNet11</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">VGGNet13</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">VGGNet16</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">VGGNet19</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">ResNet9</td>
+    <td class="tg-0pky">0.9975</td>
+    <td class="tg-0pky">0.0114</td>
+    <td class="tg-0pky">0.0160</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Google-Inception</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">DenseNet</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">MobileNet</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
+<br>
+Table 2. Classification between forest and green images
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Models</th>
+    <th class="tg-0pky">Test Accuracy</th>
+    <th class="tg-0pky">Test Loss</th>
+    <th class="tg-0pky">Training Loss</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Lenet</td>
+    <td class="tg-0pky">0.9795</td>
+    <td class="tg-0pky">0.0710</td>
+    <td class="tg-0pky">0.0000</td>
   </tr>
   <tr>
     <td class="tg-0pky">VGGNet11</td>
