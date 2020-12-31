@@ -33,12 +33,16 @@ We have trained the following models:
 <br>Find the code to the models in [models](https://github.com/mayankpatel14/Wilderness-Image-Classification/tree/master/models) and the guide to run models.
 <br>
 <br>
+
 ## [Data](https://github.com/mayankpatel14/Wilderness-Image-Classification/tree/master/data)
 The data has been downloaded from Google Earth Pro (GE). We collected 24 (4800 x 2822) images belonging to category of forest and 24 images that belong to non-forest category. These raw images were sliced into 256 x 256-pixel size images. As a result, we have 3888 images and 3888 images of forest and non-forest category. We have separated 2000 images taken randomly out of 7776 images in the validation set. 
-<br><br>
-## Results
-For visualizations of the training and validation accuracies and losses go to [final_report.pdf](https://github.com/mayankpatel14/Wilderness-Image-Classification/blob/master/final_report.pdf).
 
+<br><br>
+
+## Results
+For visualizations of the training and validation accuracies and losses go to [final_report.pdf](https://github.com/mayankpatel14/Wilderness-Image-Classification/blob/master/final_report.pdf).<br>
+<br>
+Table 1. Classification between forest and green images
 <table class="tg">
 <thead>
   <tr>
