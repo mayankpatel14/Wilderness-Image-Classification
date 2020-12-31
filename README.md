@@ -9,7 +9,7 @@
 
 
 
-### For a brief summary of this repository go to [final_report.pdf](https://github.com/mayankpatel14/Wilderness-Image-Classification/blob/master/final_report.pdf).
+### For a brief summary of this report go to [final_report.pdf](https://github.com/mayankpatel14/Wilderness-Image-Classification/blob/master/final_report.pdf).
 
 
 <br>
