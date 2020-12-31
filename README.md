@@ -110,7 +110,7 @@ Table 1. Classification between forest and green images
 </tbody>
 </table>
 
-
+<br><br><br>
 
 Tags: Image-Classification, forest, non-forest, agriculture, monoculture, trees, computer-vision, machine-learning, deep-learning, Neural-Networks
 
