@@ -14,6 +14,13 @@
 
 <br>
 
+## Experiments:
+The Experiment has been done in two parts:
+- Classification between forest and others (includes every terrain other than forest)
+- Classification between forest and monoculture
+
+<br>
+
 ## Training:
 We have trained the following models:
 -	LeNet
