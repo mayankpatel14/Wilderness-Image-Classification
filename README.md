@@ -55,33 +55,33 @@ Table 1. Classification between forest and non-forest images
 <tbody>
   <tr>
     <td class="tg-0pky">Lenet</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">0.9235</td>
+    <td class="tg-0pky">0.2397</td>
+    <td class="tg-0pky">0.0000</td>
   </tr>
   <tr>
     <td class="tg-0pky">VGGNet11</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">0.9984</td>
+    <td class="tg-0pky">0.0070</td>
+    <td class="tg-0pky">0.0328</td>
   </tr>
   <tr>
     <td class="tg-0pky">VGGNet13</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">0.9978</td>
+    <td class="tg-0pky">0.0378</td>
+    <td class="tg-0pky">0.0352</td>
   </tr>
   <tr>
     <td class="tg-0pky">VGGNet16</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">0.9982</td>
+    <td class="tg-0pky">0.0083</td>
+    <td class="tg-0pky">0.0434</td>
   </tr>
   <tr>
     <td class="tg-0pky">VGGNet19</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">0.9971</td>
+    <td class="tg-0pky">0.0099</td>
+    <td class="tg-0pky">0.0412</td>
   </tr>
   <tr>
     <td class="tg-0pky">ResNet9</td>
@@ -90,22 +90,22 @@ Table 1. Classification between forest and non-forest images
     <td class="tg-0pky">0.0160</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Google-Inception</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Google-Inceptionv1</td>
+    <td class="tg-0pky">0.9968</td>
+    <td class="tg-0pky">0.0118</td>
+    <td class="tg-0pky">0.0225</td>
   </tr>
   <tr>
-    <td class="tg-0pky">DenseNet</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">DenseNet121</td>
+    <td class="tg-0pky">0.9650</td>
+    <td class="tg-0pky">0.1170</td>
+    <td class="tg-0pky">0.2160</td>
   </tr>
   <tr>
-    <td class="tg-0pky">MobileNet</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">MobileNetv2</td>
+    <td class="tg-0pky">0.9760</td>
+    <td class="tg-0pky">0.0775</td>
+    <td class="tg-0pky">0.1645</td>
   </tr>
 </tbody>
 </table>
@@ -158,19 +158,19 @@ Table 2. Classification between forest and green images
     <td class="tg-0pky">0.0048</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Google-Inception</td>
+    <td class="tg-0pky">Google-Inceptionv1</td>
     <td class="tg-0pky">0.9970</td>
     <td class="tg-0pky">0.0125</td>
     <td class="tg-0pky">0.0423</td>
   </tr>
   <tr>
-    <td class="tg-0pky">DenseNet</td>
+    <td class="tg-0pky">DenseNet121</td>
     <td class="tg-0pky">0.9961</td>
     <td class="tg-0pky">0.0099</td>
     <td class="tg-0pky">0.0328</td>
   </tr>
   <tr>
-    <td class="tg-0pky">MobileNet</td>
+    <td class="tg-0pky">MobileNetv2</td>
     <td class="tg-0pky">0.9861</td>
     <td class="tg-0pky">0.0469</td>
     <td class="tg-0pky">0.1474</td>
